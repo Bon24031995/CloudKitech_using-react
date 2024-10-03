@@ -1,0 +1,144 @@
+{
+    "fooddata":[
+       {
+        "title":"Wow!Momo",
+        "ratings":"3.9",
+        "time":"44 min",
+        "images":"https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/bdmlzhzeslozj1ouszti",
+        "area":"Healthy Food-Camp"
+       },
+       {
+        "title":"Mc Donald's",
+        "ratings":"4.4",
+        "time":"37",
+        "images":"https://b.zmtcdn.com/data/pictures/5/18695725/012e38abbfc9893804c9326764cb80d0.jpg?fit=around|750:500&crop=750:500;*,*",
+        "area":"Shiwar wada"
+       },
+       {
+        "title":"KFC",
+        "ratings":"4.1",
+        "time":"2.5",
+        "images":"https://content.jdmagicbox.com/comp/bellary/h7/9999p8392.8392.210812221924.c1h7/catalogue/kfc-sp-circle-bellary-fried-chicken-restaurants-0hpfozfdeb.jpg",
+        "area":"Deccan Gymkhana"
+       },
+       {
+        "title":"Samuddra Veg",
+        "ratings":"4.4",
+        "time":"35 min",
+        "images":"https://cdn.britannica.com/94/240094-050-D5CC461B/Indian-naan-flatbread.jpg",
+        "area":"Swargate"
+       },
+       {
+       "title":"Domino's Pizza",
+        "ratings":"4",
+        "time":"25 min",
+        "images":"https://content3.jdmagicbox.com/comp/mumbai/k4/022pxx22.xx22.210417100452.y2k4/catalogue/dominos-pizza-chembur-east-mumbai-pizza-outlets-cn2nfdqntq.jpg",
+        "area":"Rasta Peth"
+       },
+       {
+        "title":"Hotel Dawat",
+        "ratings":"3",
+        "time":"29 min",
+        "images":"https://irp.cdn-website.com/4de092ec/dms3rep/multi/rsz_traditional-indian-food-in-ceramic-bowls-2021-08-26-15-41-52-utc.jpg",
+        "area":"Shivaginagar"
+       },
+       {
+        "title":"NH1 Bowl",
+        "ratings":"4.6",
+        "time":"12 min",
+        "images":"https://images.immediate.co.uk/production/volatile/sites/2/2020/04/OLI-0420-Everyday_SpicedGrainsWithPeasJammyEggs_04185_preview-f604cb1.jpg?quality=90&resize=700,466",
+        "area":"Dhole Patil"
+       },
+       {
+        "title":"Mathura veg",
+        "ratings":"4.3",
+        "time":"33 min",
+        "images":"https://hemaskitchen.in/wp-content/uploads/2023/02/South-Indian-Cuisine-scaled.jpg",
+        "area":"Shivagi nagar"
+       },
+       {
+        "title":"Kok ka Chinese",
+        "ratings":"4.2",
+        "time":"29 min",
+        "images":"https://www.recipetineats.com/wp-content/uploads/2023/06/Chili-crisp-noodles_2.jpg?w=747&h=747&crop=1",
+        "area":"Shivagi nagar"
+       },
+       {
+        "title":"Hotel Shreyas",
+        "ratings":"4.5",
+        "time":"28 min",
+        "images":"https://static.toiimg.com/photo/55976415.cms",
+        "area":"camp"
+       },
+       {
+        "title":"Supriya Resturent",
+        "ratings":"4.6",
+        "time":"24 min",
+        "images":"https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,h_450,q_auto,w_710/f_auto/tk-traditional-indian-foods-to-taste-in-2022-phpEXAXNS ",
+        "area":"Prabhat Road"
+       },
+       {
+        "title":"Big Bowl",
+        "ratings":"4.1",
+        "time":"41 min",
+        "images":"https://pbs.twimg.com/media/DUrvV-WVoAAmug5.jpg:large",
+        "area":"Swargate"
+       },
+       {
+        "title":"George Resturent",
+        "ratings":"4.4",
+        "time":"28 min",
+        "images":"https://5.imimg.com/data5/ANDROID/Default/2021/7/UK/QS/JK/121291282/product-jpeg-500x500.jpg",
+        "area":"camp"
+       },
+       {
+        "title":"Marz o rin",
+        "ratings":"4.6",
+        "time":"30 min",
+        "images":"https://static.toiimg.com/photo/58022721.cms",
+        "area":"camp"
+       },
+       {
+        "title":"Garden Vada center",
+        "ratings":"4.3",
+        "time":"35 min",
+        "images":"https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav-500x375.jpg",
+        "area":"Deccan Gymkhana"
+       },
+       {
+        "title":"Shahi Dawat",
+        "ratings":"4.5",
+        "time":"28 min",
+        "images":"https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/03/09/Pictures/_29be3980-04b2-11e7-87c7-5947ba54d240.jpg",
+        "area":"Viman nagar"
+       },
+       {
+        "title":"Rama Krishna",
+        "ratings":"4.4",
+        "time":"30 min",
+        "images":"https://files.yappe.in/place/small/hotel-dolphin-international-998455.webp",
+        "area":"Dhole Patil"
+       },
+       {
+        "title":"Kwality family resturent",
+        "ratings":"4.3",
+        "time":"31 min",
+        "images":"https://5.imimg.com/data5/ANDROID/Default/2021/7/HF/EM/VH/121291282/product-jpeg-500x500.jpg",
+        "area":"Sadashiv peth"
+       },
+       {
+        "title":"Wong's Kitchen",
+        "ratings":"4.8",
+        "time":"12 min",
+        "images":"https://www.blog.sagmart.com/wp-content/uploads/2015/04/Indian-Food.jpg",
+        "area":"Sector 34"
+       },
+       {
+        "title":"Cream Caver",
+        "ratings":"4.4",
+        "time":"31 min",
+        "images":"https://cdn.5280.com/2023/05/Tiffins-India-Cafe-VS-1-960x540.jpg",
+        "area":"camp"
+       }
+    ]
+  }

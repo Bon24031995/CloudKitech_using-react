@@ -1,0 +1,19 @@
+.design{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.background-fassos{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://product-assets.faasos.io/eatsure_cms/production/fbd216f6-022b-409b-8335-b57cdc3dc644.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.popUp{
+    background: white;
+    border-radius: 5px;
+    padding: 20px;
+    width: 500px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}

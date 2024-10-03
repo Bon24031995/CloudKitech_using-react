@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "email": "rahul@gmail.com",
+      "password": "rahul123"
+    },
+    {
+      "id": "d78b",
+      "email": "danish@gmail.com",
+      "password": "danish123"
+    },
+    {
+      "id": "e9c3",
+      "email": "pooja@gmail.com",
+      "password": "pooja123"
+    },
+    {
+      "id": "493d",
+      "email": "jack@gmail.com",
+      "password": "jack123"
+    },
+    {
+      "id": "c949",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "8c77",
+      "email": "nancy@gmail.com",
+      "password": "nancy123"
+    },
+    {
+      "id": "3cd7",
+      "email": "boney@gmail.com",
+      "password": "boney123"
+    }
+  ]
+}

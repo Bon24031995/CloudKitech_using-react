@@ -1,0 +1,21 @@
+const data = [{
+    id:1,
+    email:'pooja@gmail.com',
+    passoword:'danger123'
+},{
+    id:2,
+    email:'deepak@gmail.com',
+    passoword:'home123'
+},{
+    id:3,
+    email:'ayush@gmail.com',
+    passoword:'rock123'
+},{
+    id:4,
+    email:'pradeep@gmail.com',
+    passoword:'sand123'
+},{
+    id:5,
+    email:'neha@gmail.com',
+    passoword:'water123'
+},]
